@@ -34,3 +34,7 @@ build/
 .mvn/
 mvnw
 mvnw.cmd
+
+
+### React App ###
+src/frontend/node_modules/
