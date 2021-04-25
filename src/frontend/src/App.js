@@ -1,10 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import { TeamPage } from './pages/TeamPage';
 
-function App() {
+function App() { 
   return (
     <div className="App">
-     <h1>IPL Dashboard to continue</h1>
+     <TeamPage/>
     </div>
   );
 }
